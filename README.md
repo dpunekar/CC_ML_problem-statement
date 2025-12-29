@@ -1,4 +1,4 @@
-This repository contains a complete end-to-end machine learning project focused on predicting Crowd Energy for live music shows and using those predictions to optimize ticket pricing for maximum profit.
+This repository contains a complete end-to-end machine learning project which focused on predicting Crowd Energy for live music shows and using those predictions to optimize ticket pricing for maximum profit.
 The project combines data cleaning, exploratory data analysis (EDA), feature engineering, model training with cross-validation, and a business-oriented revenue optimization analysis.
 
 The goal of this project is to:
@@ -45,4 +45,4 @@ Variable cost: $8 per attendee
 
 Using the trained model and EDA the optimal price for this purpose was calculated. The completed procedure is documented in revenue_optimisation.pdf
 
-Note: The problem statement document is also uploaded (CC_ML_task.pdf)
+Note: The problem statement document is also uploaded (MachineLearning_CodingWeek.pdf)
